@@ -13,7 +13,7 @@ public class Notepad {
 		try{
 			Runtime.getRuntime().exec("notepad.exe");
 			for(int i=0;i<=10;i++){
-				StringSelection x = new StringSelection("Hi this is google maps and sakher");
+				StringSelection x = new StringSelection("Hi this is sravani and sakher");
 				Toolkit.getDefaultToolkit().getSystemClipboard().setContents(x, null);
 				Robot r=new Robot();
 				r.keyPress(KeyEvent.VK_CONTROL);
