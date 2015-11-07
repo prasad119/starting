@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20361" started-at="2015-10-19T09:56:36Z" finished-at="2015-10-19T09:56:56Z">
+  <suite name="Default suite" duration-ms="741" started-at="2015-11-07T17:00:31Z" finished-at="2015-11-07T17:00:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20361" started-at="2015-10-19T09:56:36Z" finished-at="2015-10-19T09:56:56Z">
-      <class name="com.testNGdemo.Teestng">
-        <test-method status="PASS" signature="s()[pri:0, instance:com.testNGdemo.Teestng@174be7]" name="s" is-config="true" duration-ms="13220" started-at="2015-10-19T15:26:36Z" finished-at="2015-10-19T15:26:49Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- s -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.testNGdemo.Teestng@174be7]" name="f" duration-ms="6686" started-at="2015-10-19T15:26:49Z" finished-at="2015-10-19T15:26:56Z">
+    <test name="Default test" duration-ms="741" started-at="2015-11-07T17:00:31Z" finished-at="2015-11-07T17:00:32Z">
+      <class name="mypack.Notepad">
+        <test-method status="PASS" signature="f()[pri:0, instance:mypack.Notepad@b799cf]" name="f" duration-ms="700" started-at="2015-11-07T22:30:31Z" finished-at="2015-11-07T22:30:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="c()[pri:0, instance:com.testNGdemo.Teestng@174be7]" name="c" is-config="true" duration-ms="405" started-at="2015-10-19T15:26:56Z" finished-at="2015-10-19T15:26:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- c -->
-      </class> <!-- com.testNGdemo.Teestng -->
+      </class> <!-- mypack.Notepad -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
